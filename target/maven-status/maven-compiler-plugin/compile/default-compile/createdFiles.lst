@@ -1,0 +1,11 @@
+servlets\DestinationServlet.class
+servlets\ConfigServlet.class
+servlets\Sample.class
+servlets\Servlet1.class
+servlets\SessionServlet.class
+servlets\SourceServlet.class
+servlets\CookieServlet.class
+servlets\FirstServlet.class
+servlets\RedirectServlet.class
+servlets\Servlet2.class
+servlets\Registration.class
